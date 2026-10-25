@@ -1,0 +1,8 @@
+{
+  "name": "junaid-tutor",
+  "version": "0.1.0",
+  "description": "AI tutor for The AI Agent Factory: a teaching skill plus the Zia Tutor AI MCP server",
+  "author": { "name": "Muhammad Junaid" },
+  "license": "MIT",
+  "repository": "https://github.com/mjunaidca/junaid-tutor"
+}
